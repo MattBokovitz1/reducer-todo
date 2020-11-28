@@ -6,8 +6,6 @@ This project allows you to practice the concepts and techniques learned in this 
 
 Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
 
-First Commit
-
 ## Introduction
 
 In this project, you build an app that let's you display a todo list from reducer state, and update todo items as completed and clear completed todos from the list by dispatching different actions.
